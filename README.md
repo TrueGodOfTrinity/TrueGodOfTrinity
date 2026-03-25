@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **research intern**
 
-- 🌱 I'm currently learning **Robustness Machine Learning system**
+- 🌱 I'm currently learning **Robustness**
 
 - 📫 How to reach me **lesliehu.hfut@gmail.com**
 
