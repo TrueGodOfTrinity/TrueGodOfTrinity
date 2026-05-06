@@ -1,18 +1,41 @@
-# Hi 👋, I'm Leslie
+<div align="left">
 
-### Hey, there
+<br />
 
-- 🔭 I'm currently working on **research intern**
+<h1>&#x1F44B; Hey, How's going?</h1>
 
-- 🌱 I'm currently learning **Robustness**
+<blockquote>
+  <p><em>&laquo; Le g&eacute;nie n'est qu'une longue patience. &raquo;</em></p>
+</blockquote>
 
-- 📫 How to reach me **lesliehu.hfut@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/TrueGodOfTrinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TrueGodOfTrinity" height="30" width="40" /></a>
+
+<p>
+  <a href="https://github.com/TrueGodOfTrinity">
+    <img src="https://img.shields.io/badge/GitHub-TrueGodOfTrinity-000000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:lesliehu.hfut@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lesliehu.hfut%40gmail.com-6e6e73?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a></p>
+<br />
 
+</div>
+
+## About Me
+
+Hi there, I'm **Leslie**.
+
+- Currently working as a **Research Intern**
+- Exploring **Robustness**, **Agents**, and **Machine Learning Systems**
+- Building with **Python**, **PyTorch**, **C++**, and modern AI tooling
+- Reach me at [lesliehu.hfut@gmail.com](mailto:lesliehu.hfut@gmail.com)
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,linux,git,anaconda" alt="Python, PyTorch, C++, Linux, Git, Anaconda" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" height="48" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" height="48" />
+</p>
