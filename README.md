@@ -28,7 +28,7 @@
 Hi there, I'm **Leslie**.
 
 - Currently working as a **Research Intern**
-- Exploring **Robustness**, **Agents**, and **Machine Learning Systems**
+- Exploring **Multimodal**, **Agentic RL**
 - Building with **Python**, **PyTorch**, **C++**, and modern AI tooling
 - Reach me at [lesliehu.hfut@gmail.com](mailto:lesliehu.hfut@gmail.com)
 
